@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504011787875",
+    "project_id": "baseart-a886f",
+    "storage_bucket": "baseart-a886f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504011787875:android:230186abebf0a3c013f256",
+        "android_client_info": {
+          "package_name": "com.espol.artauthenticator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8CeLgapH8LSrc1eFzfIRXrCJWNR7qBu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

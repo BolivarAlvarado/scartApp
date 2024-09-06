@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.espol.artauthenticator" />
+                  <option name="mobileSdkAppId" value="1:504011787875:android:230186abebf0a3c013f256" />
+                  <option name="projectId" value="baseart-a886f" />
+                  <option name="projectNumber" value="504011787875" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

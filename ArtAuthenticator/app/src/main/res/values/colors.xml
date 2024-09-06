@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="lavender">#8692F7</color>
+    <color name="grey">#A9A9A9</color>
+    <color name="appColor">#6EC6A9</color>
+    <color name="appColorEnd">#2A8D79</color>
+
 </resources>

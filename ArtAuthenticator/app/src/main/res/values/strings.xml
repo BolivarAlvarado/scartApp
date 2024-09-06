@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">ArtAuthenticator</string>
+    <string name="app_name">Scart</string>
+    <string name="card1">Estadísticas</string>
+    <string name="card2">Registrar obra</string>
+    <string name="card3">Funcionamiento</string>
+    <string name="button">Verificar autenticidad</string>
+    <string name="opc1">Home</string>
+    <string name="opc2">Obras</string>
+    <string name="resultados">Resultados</string>
+    <string name="menu">Volver al menú</string>
+    <string name="tituloRegistro">Registrar obra de arte</string>
+    <string name="firmarImagen">Firmar y guardar</string>
+    <string name="guardarImagen">Agregar Imagen</string>
+    <string name="hint1">Nombre de la obra</string>
+    <string name="descripcion_imagen">Imagen de la obra de arte seleccionada</string>
+    <string name="tituloVerificar">Verificar autenticidad</string>
+    <string name = "verificarEXP"> Ingrese la imagen que desea verificar su autenticidad</string>
+    <string name = "verificarEXP2">Se verificara con las imagenes que estan en la base de datos</string>
+
 </resources>
